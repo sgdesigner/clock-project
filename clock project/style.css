@@ -1,0 +1,51 @@
+.navbar-custom{
+    background-color: #5b5b5b;
+
+}
+.time1
+{
+    padding-left: 7px;
+    padding-top: 7px;
+    font-size:x-large;
+    color: turquoise;
+    
+}
+.body{
+    background-image: url('pexels-photo-132197.jpeg');
+    background-repeat: no-repeat;
+    background-size: 2000px 1000px;
+}
+.display-4{
+    color: white;
+    font-size: x-large;
+    padding-top: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+    /* } */
+.container-fluid1{
+    background-color:#f7f6e7;
+    border-radius: 5px;
+    padding: 10px;
+    color: #314e52;
+    
+}
+.abc{
+    color:white;
+}
+#id1,#id3{
+    font-size: xx-large;
+    margin-bottom: 30px;
+
+}
+#id2,#id4,#id6,#id8{
+    font-size: 40px;
+    /* border: white;
+    border-color: whitesmoke;
+    border-width: 2px; */
+}
+#id5,#id7{
+    font-size: 40px;
+}
+.navbar-brand{
+    font-size: 200px;
+}
